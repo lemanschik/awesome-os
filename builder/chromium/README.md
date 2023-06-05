@@ -12,3 +12,7 @@ The OPFS Stack is a Universal Filesystem Exchange origin Implementation designed
 in a Central Place with git like features that are also fully git compatible.
 
 Cloud FS is a WebRTC Based Framework and Integration to connect a OPFS Enabled Origins to a other Remote File System on one or many servers fully distributed. 
+
+## How?
+This uses the Newst Archivements of the Open Source Community like Project FUGU and Others. And Integrates them Into Something usable.
+In Real World Scenarios. This AIMS not less then to get a Real Life Example of a World Wide Distributed Super Computer that can build and run Chromium Platform Components fully Isolated Containered in Virtual Machines that do run in the Browser or any WInterOP Environment.
