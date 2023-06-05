@@ -23,3 +23,9 @@ Learn more about:
 - Learn more about the Unlicense Code Project.
 - Learn more about the future of Compilers: Principles, Techniques, and Tools in the 3rd Edition offered as Interactive Notebook
   - The White Dragon Book.
+
+## References and Demos
+- https://opfs.zip
+- https://cloud-fs.zip 
+- https://cloud-fs.zip/node The NodeJS Compatible Implementation of cloud-fs designed to be used via webrtc. 
+- https://www.awesome-os.com
