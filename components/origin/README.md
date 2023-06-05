@@ -11,6 +11,6 @@ simple include
 
 in your html text and then your fine optional you can add the following on top of your entrypoint.
 
-```
+```ts
 import '/components/origin/origin.js';
 ```
