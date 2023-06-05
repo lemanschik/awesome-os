@@ -1,2 +1,4 @@
 # This file is here as this is the main directory to use as target for git subrepo clone source .subrepos/source
+## Tar is ignored because it is not part of the source but gets generated on runtime for block aligned support in
+## 512 byte chunks. 
 *.tar
