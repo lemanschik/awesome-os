@@ -32,3 +32,13 @@ Learn more about:
 - https://cloud-fs.zip/node The NodeJS Compatible Implementation of cloud-fs designed to be used via webrtc. 
 - https://www.awesome-os.com A Webpage to get viewed it will never be neat or pritty but it will be a Entrypoint.
   - https://www.awesome-os.com/documentation Will be maybe a more nice view of this repositiorys main educational content.
+
+## Some Entry Level Concepts about ECMAScript and C++ as also a bit ASM to Explain sharedMemory Handels
+Maybe you know out of the WInterOP World already a bit about sharedArray Buffers which are transferable to a so called Context/World
+a Context/World is something like a isolated System it got its own rules of execution and gets Manged by a Outer Component that instantiated it. This is called Capability based Permission Protocol Security and Handling. The Concept is Simple a Higher order Component that can be a Component Manager gets Some System Capabilitys to manage then this can be passed fully or partial to other
+Components that are instantiated by it. This is Comapreable To the Rust Memory Management Principels with the Brrrow Checker.
+
+While we do that on Execution. All ECMAScript code gets Ignited by v8 thats the term for turning your ECMAScript into ASM and then Reference that via a C++ Tempalte Function. This Turns Your Code Into Nativ ASM that Runs inside its own Context/World for internal
+ipc we have the concept of so called Context Security ID's that are the same that get used internal in WebRTC Peer Sessions.
+
+So we can work and operate even on Encrypted Memory. Memory is simple a Array of Data this data can be manipulated via ASM C or internal via the genrated ASM from ECMAScript code Ignition processes. In AswesomeOS how ever we try to unifie to the term Task for everything a Component executes runs defined tasks under defined conditions. The Task executin it self is watchable observable as it gets exposed as Handle that supports Streams to consume the processing progress or incremental results...... or even modify the runtime behavior via additional input like a contract. 
