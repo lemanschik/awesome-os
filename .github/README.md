@@ -52,6 +52,6 @@ Everything from the boot to the end of everything that is loaded and running is 
 // Representing the input output error Reeadable Streams additiona input gets supplyed via 
 // transform streams that take the inital input readableStream as start signal for the Components Inital Task or setup.
 const stdio = {
-  stdin, stdout, stderr
+  stdin.pipeThrough(TaskThatMayTakeAdditionalInput), stdout, stderr
 }
 ```
