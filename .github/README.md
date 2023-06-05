@@ -45,3 +45,12 @@ So we can work and operate even on Encrypted Memory. Memory is simple a Array of
 
 ## Pipelines Streams Tasks Databases Archives.
 All The above a terms for the same thing in AwesomeOS as it trys to simplefiy Software Development and Execution even after the secund day. So a Query Able Task that holds access to some partial data set can act as Database you use it similar to kafka streams or other pipeline principels that you know from eg github. As any Context Exposes its handle and can take input and async return query results to multiple receivers this builds the fundation of the Quarternion SDK. Which exactly offers predefined greenfild patterns to expose Data via Streams out of a local or remote context in a Database Pipeline like fashion. 
+
+## Usage
+Everything from the boot to the end of everything that is loaded and running is a Stream that builds the Entry ComponentManager Implementation.
+```
+// Representing the input output error Reeadable Streams additiona input gets supplyed via transform streams that take the inital input readableStream as start signal for the Components Inital Task or setup.
+const stdio = {
+  stdin, stdout, stderr
+}
+```
