@@ -22,7 +22,7 @@ Learn more about:
 - Learn more about the Chromium Project.
 - Learn more about the Unlicense Code Project.
 - Learn more about the future of Compilers: Principles, Techniques, and Tools in the 3rd Edition offered as Interactive Notebook
-  - The White Dragon Book.
+  - The White Dragon Book. - Can be also buyed as Subscription Model to Support Software Development patterns that are designed to be stable evolving and stop the framework horror.
 
 ## References and Demos
 - https://opfs.zip
