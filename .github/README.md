@@ -7,6 +7,9 @@ It is an independent distribution, developed entirely by Frank at present.
 
 Unlike 99.99% of other existing distros, AwesomeOS is not a modification of an existing distribution. AwesomeOS is the first of Its Kind. As its package manager and build system Implementation, Unlike most Other distros, is independent it has no Affiliation to any of the Big Main Distros while our tooling works with any Linux, MacOS, Windows, Android, Fuchsia, LaCroOS, BSD, or Distribution.
 
+focuses on stability, while being bleeding-edge. Install once, update routinely and safely.
+Thanks to our continuous linear world wide build grid, new software is built into world wide accessible shared Memory exposed as Handels as soon as the changes are saved. This allows you to Realtime iterate over your code while adopting changes to production only after everything is fully tested and works as expected. Without Additional Deployment!
+
 We Implemented highly Generic APIs for any need so that you got a Stable Platform where you can build and run your software on. No matter what workloads you targeting or if it is an IoT Device. Software Management is fully Handled by AwesomeOS 
 
 The AwesomeOS Gui is Implemented in HTML CSS and Nativ ASM.
