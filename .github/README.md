@@ -12,7 +12,7 @@ Thanks to our continuous linear world wide build grid, new software is built int
 
 We Implemented highly Generic APIs for any need so that you got a Stable Platform where you can build and run your software on. No matter what workloads you targeting or if it is an IoT Device. Software Management is fully Handled by AwesomeOS 
 
-The AwesomeOS Gui is Implemented in HTML CSS and Nativ ASM.
+The AwesomeOS Gui is Implemented in HTML CSS and Nativ ASM. Offering Scripting and Integration Support via ECMAScript and C++
 
 Learn more about:
 - The B8G Compiler Framework. If you want to create the next generation of Highly Efficient Services.
