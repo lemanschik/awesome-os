@@ -11,4 +11,4 @@ Both Stacks do run Completly in any WInterOP Powered Environment even Cloudflare
 The OPFS Stack is a Universal Filesystem Exchange origin Implementation designed to Manage Environments Settings and Secrets as also IAM 
 in a Central Place with git like features that are also fully git compatible.
 
-Cloud FS is a WebRTC Based Framework and Integration to connect a OPFS Enabled Origin to a other Remote File System on one or many servers fully distributed. 
+Cloud FS is a WebRTC Based Framework and Integration to connect a OPFS Enabled Origins to a other Remote File System on one or many servers fully distributed. 
