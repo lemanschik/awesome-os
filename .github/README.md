@@ -58,7 +58,7 @@ const stdio = {
 
 in a frontend project it would look like
 
-```
+```ts
 const stdio = {
   stdin: AWindowMutationObserverOrOntimeReadableStreamImplementationThatTakesAllUserEvents,
   stdout: AWriteableStreamThatModifysDomElementsOrReportsToConsole,
