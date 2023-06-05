@@ -25,8 +25,10 @@ Learn more about:
   - The White Dragon Book. - Can be also buyed as Subscription Model to Support Software Development patterns that are designed to be stable evolving and stop the framework horror.
 
 ## References and Demos
-- https://opfs.zip A Single Private Place for your data that never transfers your data to us. Not even Routes your Data over us. 
+- https://opfs.zip A Single Private Place for your data that never transfers your data to us. Not even Routes your Data over us.
+  - acts as WInterOP EntryPoint offers shareAble FileSystem Implementations. Based on the Origin Private FileSystem Concepts and API's
 - https://cloud-fs.zip 
   - Adds Clustering and other services based on the opfs.zip implementation includes *.opfs.zip domain services. and *.cloud-fs.zip clustered services. 
 - https://cloud-fs.zip/node The NodeJS Compatible Implementation of cloud-fs designed to be used via webrtc. 
-- https://www.awesome-os.com
+- https://www.awesome-os.com A Webpage to get viewed it will never be neat or pritty but it will be a Entrypoint.
+  - https://www.awesome-os.com/documentation Will be maybe a more nice view of this repositiorys main educational content.
