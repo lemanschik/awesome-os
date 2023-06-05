@@ -49,9 +49,20 @@ All The above a terms for the same thing in AwesomeOS as it trys to simplefiy So
 ## Usage
 Everything from the boot to the end of everything that is loaded and running is a Stream that builds the Entry ComponentManager Implementation.
 ```ts
-// Representing the input output error Reeadable Streams additiona input gets supplyed via 
+// Representing the input readable and output, error Writable Streams additiona input gets supplyed via 
 // transform streams that take the inital input readableStream as start signal for the Components Inital Task or setup.
 const stdio = {
   stdin.pipeThrough(TaskThatMayTakeAdditionalInput), stdout, stderr
 }
+```
+
+in a frontend project it would look like
+
+```
+const stdio = {
+  stdin: AWindowMutationObserverOrOntimeReadableStreamImplementationThatTakesAllUserEvents,
+  stdout: AWriteableStreamThatModifysDomElementsOrReportsToConsole,
+  stderr: AWriteableStreamTHatTakesErrorReportsAndActsOnTHem
+}
+
 ```
